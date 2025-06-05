@@ -1,6 +1,6 @@
 # integrasi_data
 
-<img src="Screenshot.png" alt="Tampilan Aplikasi" width="300"/>
+<img src="Screenshot.jpg" alt="Tampilan Aplikasi" width="300"/>
 
 A new Flutter project.![alt text](<Screenshot 2025-06-05 165454.png>)
 
